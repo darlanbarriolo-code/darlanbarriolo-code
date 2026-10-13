@@ -15,3 +15,7 @@ Nele, organizo projetos acadêmicos, projetos pessoais e documentações relacio
 Objetivo profissional
 
 Continuar desenvolvendo minhas habilidades na área de tecnologia, adquirir experiência prática e compartilhar minha evolução por meio de projetos.
+
+## Contato
+
+[Meu LinkedIn](https://www.linkedin.com/in/darlan-barriolo)
