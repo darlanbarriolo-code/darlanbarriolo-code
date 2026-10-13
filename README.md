@@ -18,4 +18,4 @@ Continuar desenvolvendo minhas habilidades na área de tecnologia, adquirir expe
 
 ## Contato
 
-[Meu LinkedIn]([https://www.linkedin.com/in/darlan-barriolo](https://www.linkedin.com/in/darlan-barriolo-149297443?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+[Meu LinkedIn](https://www.linkedin.com/in/darlan-barriolo-149297443?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
