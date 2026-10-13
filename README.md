@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá! 👋 Bem-vindo ao meu GitHub!
 
-<!--
-**darlanbarriolo-code/darlanbarriolo-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante na área de tecnologia e estou desenvolvendo meus conhecimentos por meio de atividades acadêmicas e projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo este espaço para organizar meus trabalhos, acompanhar minha evolução e construir meu portfólio profissional.
+
+Meu portfólio
+
+Estou desenvolvendo meu portfólio profissional como parte das atividades do Bootcamp 1.
+
+Nele, organizo projetos acadêmicos, projetos pessoais e documentações relacionadas aos meus estudos.
+
+Objetivo profissional
+
+Continuar desenvolvendo minhas habilidades na área de tecnologia, adquirir experiência prática e compartilhar minha evolução por meio de projetos.
